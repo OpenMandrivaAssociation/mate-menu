@@ -1,7 +1,7 @@
 Summary:	An Advanced Menu for the MATE Desktop 
 Name:		mate-menu
 Version:	22.04.2
-Release:	1
+Release:	2
 License:	GPLv2+ and MIT
 Group:		Graphical desktop/Other
 Url:		https://github.com/ubuntu-mate/%{name}
