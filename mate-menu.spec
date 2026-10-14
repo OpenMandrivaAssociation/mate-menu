@@ -1,7 +1,7 @@
 Summary:	An Advanced Menu for the MATE Desktop 
 Name:		mate-menu
 Version:	22.04.2
-Release:	4
+Release:	5
 License:	GPLv2+ and MIT
 Group:		Graphical desktop/Other
 Url:		https://github.com/ubuntu-mate/%{name}
@@ -9,7 +9,7 @@ Source0:	https://github.com/ubuntu-mate/%{name}/archive/%{version}/%{name}-%{ver
 
 BuildRequires:	intltool
 BuildRequires:	pkgconfig(gobject-introspection-1.0)
-BuildRequires:	pkgconfig(python)
+BuildRequires:	pkgconfig(python3)
 BuildRequires:	python%{pyver}dist(python-distutils-extra)
 BuildRequires:	python%{pyver}dist(setuptools)
 BuildRequires:	desktop-file-utils
